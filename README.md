@@ -14,3 +14,7 @@ My complete audit portfolio in public and private security competitions.
 | ---- | ---- | ---- | ---- | ---- | ----- |
 |  |  |  |   |  |
 |  |[name](link) |  |  |  |[report](link)
+
+
+## Tweets & Articles
+[Tweet Title](link)
