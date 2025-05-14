@@ -17,4 +17,4 @@ My complete audit portfolio in public and private security competitions.
 
 
 ## Tweets & Articles
-[Tweet Title](link)
+[Ethereum Pectra Update](https://x.com/dystopiaxyz/status/1920392761326317992)
