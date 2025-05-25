@@ -8,6 +8,12 @@ My complete audit portfolio in public and private security competitions.
 3. Suggest Low/QA & Gas/Code Optimisations.
 4. Clear communication in the entire process & post audit support.
 
+## Profiles
+[Cantina](https://cantina.xyz/u/dystopia)
+[CodeHHawks](https://profiles.cyfrin.io/u/dystopiaxyz)
+[Code4rena](https://code4rena.com/@dystopia)
+
+
 ## Public Competitions
 
 | Date | Protocol | Category |  Environment | LOC | Rank | Findings | $$ | Report |
