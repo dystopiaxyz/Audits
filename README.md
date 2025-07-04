@@ -1,12 +1,6 @@
 # Audits
 My complete audit portfolio in public and private security competitions.
 
-# Audit methodology
-
-1. Understand the protocol & its intentions.
-2. Find all logical bugs, criticals & H/M web3 vulnerabilities.
-3. Suggest Low/QA & Gas/Code Optimisations.
-4. Clear communication in the entire process & post audit support.
 
 ## Profiles
 
@@ -17,8 +11,6 @@ My complete audit portfolio in public and private security competitions.
 [Code4rena](https://code4rena.com/@dystopia)
 
 [Sherlock](https://audits.sherlock.xyz/watson/dystopia)
-
-[]()
 
 
 ## Public Competitions
@@ -40,5 +32,11 @@ My complete audit portfolio in public and private security competitions.
 ## Helpful Tweets & Articles
 [Ethereum Pectra Update](https://x.com/dystopiaxyz/status/1920392761326317992)
 
+
 ## FAQ
 Coming Soon...
+
+
+## Audit methodology
+
+Private for now.
