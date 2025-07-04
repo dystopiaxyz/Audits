@@ -12,7 +12,7 @@ My complete audit portfolio in public and private security competitions.
 
 [Cantina](https://cantina.xyz/u/dystopia)
 
-[CodeHHawks](https://profiles.cyfrin.io/u/dystopiaxyz)
+[CodeHawks](https://profiles.cyfrin.io/u/dystopiaxyz)
 
 [Code4rena](https://code4rena.com/@dystopia)
 
