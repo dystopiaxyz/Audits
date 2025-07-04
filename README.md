@@ -18,8 +18,6 @@ My complete audit portfolio in public and private security competitions.
 
 [Sherlock](https://audits.sherlock.xyz/watson/dystopia)
 
-[HatsFinance](https://app.hats.finance/profile/dystopia)
-
 []()
 
 
