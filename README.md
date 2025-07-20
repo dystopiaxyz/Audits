@@ -17,6 +17,7 @@ My complete audit portfolio in public and private security competitions.
 
 | Date | Protocol | Category |  Environment | LOC | Rank | Findings | $$ | Report |
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 07-2025 | [Panoptic Hypovault](https://panoptic.xyz/) | Options Trading | Solidity  | 444 | TBD | 🥉QA  | $150 | [TBD]()
 | 06-2025 | [Solaxy](https://solaxy.io/) | Launchpad | Solana  | 10K | TBD | TBD | $TBD | [TBD]()
 | 06-2025 | [AAVE on Aptos](https://aave.com/) | Cross Chain Lending | Move  | 10K | TBD | 4L, 1QA | $TBD | [report](https://cantina.xyz/code/ad445d42-9d39-4bcf-becb-0c6c8689b767/findings?created_by=dystopia&status=duplicate,confirmed)
 | 06-2025 | [CircuitDAO](https://circuitdao.com/) | CDP | ChiaLisp  | 6750 | TBD | TBD | $TBD | [report](https://cantina.xyz/code/7d650b99-8a40-49d1-9b65-2b060accfbb7/findings?status=duplicate,confirmed&created_by=dystopia)
