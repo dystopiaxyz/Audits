@@ -15,11 +15,11 @@ My complete audit portfolio in public and private security competitions.
 
 ## Public Competitions
 
-| Date | Protocol | Category |  Environment | LOC | Rank | Findings | $$ | Report |
+| Date | Protocol | Category | Language | LOC | Rank | Findings | $$ | Report |
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 08-2025 | [GTE_XYZ Spot CLOB](https://www.gte.xyz/) | Spot Trading | Solidity  | 2000 | TBD | TBD | TBD | [report](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router/submissions?page=1&filter=all&search=dystopia)
 | 07-2025 | [Genius Foundation](https://x.com/GeniusFDN) | Bridge | Typescript  | 8724 | TBD | 1H, 1L | TBD | [report](https://cantina.xyz/code/12acc80c-4e4c-4081-a0a3-faa92150651a/findings?created_by=dystopia&status=confirmed,duplicate)
-| 07-2025 | [Panoptic Hypovault](https://panoptic.xyz/) | Options Trading | Solidity  | 444 | TBD | 🥉QA  | $126.32 | [report](https://code4rena.com/audits/2025-06-panoptic-hypovault/submissions/S-788)
+| 07-2025 | [Panoptic Hypovault](https://panoptic.xyz/) | Options Trading | Solidity  | 444 | TBD | 🥉QA  | $126 | [report](https://code4rena.com/audits/2025-06-panoptic-hypovault/submissions/S-788)
 | 06-2025 | [Solaxy](https://solaxy.io/) | Launchpad | Solana  | 10K | 5/789 | 1H, 2M | $710 | [report](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?created_by=dystopia&status=confirmed,duplicate)
 | 06-2025 | [AAVE on Aptos](https://aave.com/) | Cross Chain Lending | Move  | 10K | - | 4L, 1QA | $0 | [report](https://cantina.xyz/code/ad445d42-9d39-4bcf-becb-0c6c8689b767/findings?created_by=dystopia&status=duplicate,confirmed)
 | 06-2025 | [CircuitDAO](https://circuitdao.com/) | CDP | ChiaLisp  | 6750 | 11/506 | 1M | $450 | [report](https://cantina.xyz/code/7d650b99-8a40-49d1-9b65-2b060accfbb7/findings?status=duplicate,confirmed&created_by=dystopia)
