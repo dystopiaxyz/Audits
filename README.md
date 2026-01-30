@@ -31,7 +31,7 @@ Currently I'm auditing ZK based protocols.
 | DATE | DURATION | PROTOCOL | LANGUAGE | LOC | REPORT | COMPANY | 
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- |
 | 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report](To be Added) | Shieldify Security |
-| 30/01/26 | _ days  | To be Added            | Solana/Rust | 1500 | [report](To be Added) | Shieldify Security |  
+| 30/01/26 | 3 days  | Kind Arthur - StormRae | Solana/Rust | 2000 | [report](To be Added) | Shieldify Security |  
 
 
 ## Public Competitions
