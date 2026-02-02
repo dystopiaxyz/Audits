@@ -1,6 +1,5 @@
 # Audits
 Go down to see my audit portfolio in public security competitions. 
-Currently I'm trying to establish myself as a versatile auditor rather than focusing on a specialization because I genuinely enjoy working with unknown codebases and environments. 
 
 **I'm completely open for private and full time engagements.** 
 
@@ -11,9 +10,10 @@ I've audited protocols in Cairo, Move, Solana, Rust, Solidity, Typescript and fe
 
 I've audited RWAs, Crosschain, Lending, Spot/Options & Perpetuals, Infrastucture, Liquid Staking, Bridges & Launchpads and CDPs protocols. 
 
-Currently I'm auditing ZK based protocols. 
+Currently I'm auditing rust, solana & ZK based protocols. 
 ```
 
+### Competitions
 - Total H/M    : 26 (14H, 12M)
 - Total L/Info : 60+ (30+ solo)
 - Total Earnings: $5330
@@ -30,8 +30,8 @@ Currently I'm auditing ZK based protocols.
 
 | DATE | DURATION | PROTOCOL | LANGUAGE | LOC | REPORT | COMPANY | 
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- |
-| 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report]() | Shieldify Security |
-| 30/01/26 | 3 days  | KingArthur - StormRae  | Solana/Rust | 2000 | [report]() | Shieldify Security |  
+| 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report](AddedSoon) | Shieldify Security |
+| 30/01/26 | 3 days  | KingArthur - StormRae  | Solana/Rust | 2000 | [report](AddedSoon) | Shieldify Security |  
 
 
 ## Public Competitions
