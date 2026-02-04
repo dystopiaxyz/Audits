@@ -21,8 +21,8 @@ Currently I'm auditing rust, solana & ZK based protocols.
 
 ## Top Results
 
-- 1 Top 4 placement
-- 1 Top 5 placement
+- 1 Top 4 placement (Solana)
+- 1 Top 5 placement (solana)
 - 1 🥇 QA Report
 - 1 🥉 QA Report
 
