@@ -38,7 +38,6 @@ Currently I'm auditing rust, solana & ZK based protocols.
 
 | Date | Protocol | Category | Language | LOC | Rank | Findings | $$ | Report |
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 08-2025 | [Malda_xyz](https://malda.xyz/) | ZK + lending | Rust + Solidity  | 4000 | TBD | TBD | TBD | [report]()
 | 07-2025 | [Genius Foundation](https://x.com/GeniusFDN) | Bridge | Solana  | 13000 | 4 | 1H, 1L, 1QA | $1750 | [report](https://cantina.xyz/code/12acc80c-4e4c-4081-a0a3-faa92150651a/findings?created_by=dystopia&status=confirmed,duplicate)
 | 07-2025 | [Panoptic Hypovault](https://panoptic.xyz/) | Options Trading | Solidity  | 444 | 6 | 🥉QA  | $126 | [report](https://code4rena.com/audits/2025-06-panoptic-hypovault/submissions/S-788)
 | 06-2025 | [Solaxy](https://solaxy.io/) | Launchpad | Solana  | 10K | 5/789 | 1H, 2M | $710 | [report](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?created_by=dystopia&status=confirmed,duplicate)
