@@ -16,8 +16,6 @@ Currently I'm auditing rust, solana & ZK based protocols.
 ### Competitions
 - Total H/M    : 26 (14H, 12M)
 - Total L/Info : 60+ (30+ solo)
-- Total Earnings: $5330
-- Total avg hours per protocol audit: 14 hours 
 
 ## Top Results
 
