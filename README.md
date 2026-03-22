@@ -28,8 +28,9 @@ Currently I'm auditing rust, solana & ZK based protocols.
 
 | DATE | DURATION | PROTOCOL | LANGUAGE | LOC | REPORT | COMPANY | 
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- |
-| 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report](AddedSoon) | Shieldify Security |
-| 30/01/26 | 3 days  | KingArthur - StormRae  | Solana/Rust | 2000 | [report](AddedSoon) | Shieldify Security |  
+| 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report](Private) | Shieldify Security |
+| 30/01/26 | 3 days  | KingArthur - StormRae  | Solana/Rust | 2000 | [report](Private) | Shieldify Security |  
+| 30/02/26 | 15 days  | Spark Lend  | Solidity | 8000 | [report](Private) | Direct Engagement |  
 
 
 ## Public Competitions
