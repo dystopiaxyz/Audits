@@ -8,9 +8,9 @@ Go down to see my audit portfolio in public security competitions.
 ```
 I've audited protocols in Cairo, Move, Solana, Rust, Solidity, Typescript and few other languages. 
 
-I've audited RWAs, Crosschain, Lending, Spot/Options & Perpetuals, Infrastucture, Liquid Staking, Bridges & Launchpads and CDPs protocols. 
+I've audited Crosschain, Lending, Spot/Options & Perpetuals, Infrastucture, Liquid Staking, RWAs. Bridges & Launchpads and CDPs protocols. 
 
-Currently I'm auditing rust, solana & ZK based protocols. 
+My expertise is Rust based protocols along with fuzz testing and formal verification. 
 ```
 
 ### Competitions
@@ -30,7 +30,6 @@ Currently I'm auditing rust, solana & ZK based protocols.
 | ---- | ---- | ---- | ---- | ---- | ----- | ---- |
 | 15/01/26 | 14 days | Jailed - Pandemic Labs | Solana/Rust | 8500 | [report](Private) | Shieldify Security |
 | 30/01/26 | 3 days  | KingArthur - StormRae  | Solana/Rust | 2000 | [report](Private) | Shieldify Security |  
-| 30/02/26 | 15 days  | Spark Lend  | Solidity | 8000 | [report](Private) | Direct Engagement |  
 
 
 ## Public Competitions
